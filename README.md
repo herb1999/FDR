@@ -55,7 +55,7 @@ python script/cub200/FDR.py
 
 ## 🧩 Method Overview
 
-![image-20250714165059417](D:\tools\typora_imgs\image-20250714165059417.png)
+![image-20250714165059417](C:\research\code\FDR\imgs\image-20250714165059417.png)
 
 *Feature Decomposition-Recomposition workflow:  
 (1) Semantic decomposition of base prototypes using LLM keywords  

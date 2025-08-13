@@ -77,4 +77,4 @@ python script/cub200/FDR.py
 Contributions are welcome! Please open an issue or submit a PR.
 
 ## 📧 Contact
-For questions, please contact: fdr.fscil@gmail.com
+For questions, please contact: zongyao.xue@vipl.ict.ac.cn

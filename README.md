@@ -66,13 +66,12 @@ python script/cub200/FDR.py
 ```bibtex
 @inproceedings{fdr2025iccv,
   title={Feature Decomposition-Recomposition in Large Vision-Language Model for Few-Shot Class-Incremental Learning},
-  author={Anonymous},
+  author={Zongyao Xue, Meina Kan, Shiguang Shan, Xilin Chen},
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
   year={2025},
   note={Paper ID 13700}
 }
 ```
-
 ## 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a PR.
 
